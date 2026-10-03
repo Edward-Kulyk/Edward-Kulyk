@@ -6,8 +6,8 @@ self-hosting by night.
 
 ### Things I'm building
 
+- **[omarchy-claude-sessions](https://github.com/Edward-Kulyk/omarchy-claude-sessions)** — Omarchy bar widget: live Claude Code sessions, which are waiting for you, one click to their terminal
 - **drawde.telegram** — native Telegram client for the Omarchy / Hyprland bar, Rust + TDLib · *coming soon*
-- **claude-acc** — live account switching across Claude Code sessions · *coming soon*
 
 ### Stack
 
